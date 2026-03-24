@@ -73,6 +73,8 @@ please refer to the
 - OpenAPI:
   - Serve: `deno task openapi`
   - Development: `deno task openapi:dev`
+  - Static site deployment: GitHub Pages publishes the generated OpenAPI
+    reference from `.github/workflows/pages.yml`
 
 ## Questions & Bugs
 
